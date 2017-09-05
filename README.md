@@ -46,4 +46,4 @@ Blogen = Blog Generator!!!
 ^_^**好傻的取名方式**
 
 ##  screenshot?
-![](libs/blogen_screenshot.jpeg)
+![](libs/blogen_screenshot.png)
