@@ -3,6 +3,8 @@
 mkdir -p public/{images,style,script,profile}
 mkdir -p private/default
 
+npm i
+
 # setup style file
 if [[ ! -e public/style/{main,prism}.css ]]; then
     cp -rf libs/{main,prism}.css public/style/
