@@ -19,7 +19,7 @@
 
 如果你的内心在不断重复**Yes**，那你就尝试吧！！！
 
-## 功能
+## features
 1. **Markdown文档 => HTML页面**;
 2. **Markdown实时预览，页面自动重载**；
 3. **简洁漂亮的代码高亮**；
@@ -40,10 +40,19 @@ make server
 [更换页面上的图片？(1920x1080)](http://wallpaperswide.com/1920x1080-wallpapers-r.html)
 选择你喜欢的HD图片，保存到public/profile/background.jpg即可；
 
-## blogen什么意思？
+## blogen？
 Blogen = Blog Generator!!! 
 
 ^_^**好傻的取名方式**
 
-##  screenshot?
-![](libs/blogen_screenshot.png)
+##  screenshot
+
+[我的主页](www.ai4coder.cn)
+
+### **页首样式**
+![](libs/blogen_screenshot01.jpeg)
+
+---
+### **代码高亮**
+
+![](libs/blogen_screenshot02.jpeg)
