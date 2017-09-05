@@ -1,0 +1,15 @@
+title: Blogen Tool
+description: Generate Markdown 2 Blog With Less Than 200 Lines Code
+author: Deyu Hua
+email: deyuhua@gmail.com
+url: www.ai4coder.cn
+keywords: Blog Generator, Markdown, Github Pages
+
+indexMd: README.md
+pagesDir: public/pages
+privateDir: private
+
+pluginsDir: plugins
+plugins:
+  pluginInHead: [tongji, zhangzhan]
+  pluginInBody: [disqus]

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="keywords" content="${keywords}">
+        <meta name="description" content="${description}">
+        <link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+        <title>${title}</title>
+        <link href="/public/style/main.css" rel="stylesheet">
+        <link href="/public/style/prism.css" rel="stylesheet">
+
+        <script src="/reload/reload.js"></script>
+        <script src="/public/script/prism.js"></script>
+
+        <style>
+         * {
+             font-family: "PingFang SC","Helvetica Neue","Hiragino Sans GB","Segoe UI","Microsoft YaHei","微软雅黑",sans-serif;
+             -webkit-font-smoothing: antialiased;
+         }
+         pre { border-radius: 5px !important; }
+        </style>
+
+         ${pluginInHead}
+
+    </head>
+    <body>
+        <div class="container markdown-body">
+            <div class="cover background">
+                <p align="center"><a href="/index.html"><img width="100%" src="/public/profile/background.jpg" /></a></p>
+            </div>
+
+            ${markedString}
+
+            <div class="comments">${pluginInBody}</div>
+        </div>
+    </body>
+</html>

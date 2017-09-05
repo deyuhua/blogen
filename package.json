@@ -1,0 +1,28 @@
+{
+    "name": "blogen",
+    "version": "0.0.1",
+    "description": "blog generator with less than 300 line code",
+    "main": "blogen.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "blog",
+        "generator",
+        "markdown",
+        "github",
+        "pages"
+    ],
+    "author": "deyuhua",
+    "license": "MIT",
+    "dependencies": {
+        "args-parser": "^1.1.0",
+        "express": "^4.15.4",
+        "marked": "^0.3.6",
+        "node-watch": "^0.5.5",
+        "reload": "^2.2.2",
+        "serve-favicon": "^2.4.3",
+        "unique-slug": "^2.0.0",
+        "yamljs": "^0.3.0"
+    }
+}
