@@ -36,8 +36,7 @@ make setup # 设置好需要的目录和软件包
 make server
 ```
 
-<br>
-[更换页面上的图片?1920x1080](http://wallpaperswide.com/1920x1080-wallpapers-r.html)
+[更换博客的背景图？](http://wallpaperswide.com/1920x1080-wallpapers-r.html)
 <br>
 选择你喜欢的HD图片，保存到public/profile/background.jpg即可预览效果；
 
