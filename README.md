@@ -31,7 +31,7 @@
 ```bash
 brew install git make node # Mac用户
 sudo apt install git make node # Linux,非apt包管理的自行调整
-git clone git@github.com:deyuhua/blogen.git ~/blogen && cd ~/blogen
+git clone https://github.com/deyuhua/blogen.git ~/blogen && cd ~/blogen
 make setup # 设置好需要的目录和软件包
 make server
 ```
